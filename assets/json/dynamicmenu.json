@@ -1,0 +1,861 @@
+[
+    {
+        "store": {
+            "title": "Shop",
+            "items": [
+                {
+                    "text": "Shop the Latest",
+                    "link": "#"
+                },
+                {
+                    "text": "Mac",
+                    "link": "#"
+                },
+                {
+                    "text": "iPad",
+                    "link": "#"
+                },
+                {
+                    "text": "iPhone",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple Watch",
+                    "link": "#"
+                },
+                {
+                    "text": "Accessories",
+                    "link": "#"
+                }
+            ]
+        },
+        "quick_links": {
+            "title": "Quick Links",
+            "items": [
+                {
+                    "text": "Shop Holiday Gifts",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple Store Shopping event",
+                    "link": "#"
+                },
+                {
+                    "text": "Find a Store",
+                    "link": "#"
+                },
+                {
+                    "text": "Order Status",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple Trade in",
+                    "link": "#"
+                },
+                {
+                    "text": "Financing",
+                    "link": "#"
+                }
+            ]
+        },
+        "shop_special_stores": {
+            "title": "Shop Special Stores",
+            "items": [
+                {
+                    "text": "Certified Refurbished",
+                    "link": "#"
+                },
+                {
+                    "text": "Education",
+                    "link": "#"
+                },
+                {
+                    "text": "Business",
+                    "link": "#"
+                },
+                {
+                    "text": "Veterans and Military",
+                    "link": "#"
+                },
+                {
+                    "text": "Government",
+                    "link": "#"
+                }
+            ]
+        }
+    },
+    {
+        "store": {
+            "title": "Explore Mac",
+            "items": [
+                {
+                    "text": "Explore All Mac",
+                    "link": "#"
+                },
+                {
+                    "text": "MacBook Air",
+                    "link": "#"
+                },
+                {
+                    "text": "MacBook Pro",
+                    "link": "#"
+                },
+                {
+                    "text": "iMac",
+                    "link": "#"
+                },
+                {
+                    "text": "Mac mini",
+                    "link": "#"
+                },
+                {
+                    "text": "Mac Studio",
+                    "link": "#"
+                },
+                {
+                    "text": "Mac Pro",
+                    "link": "#"
+                },
+                {
+                    "text": "Displays",
+                    "link": "#"
+                },
+                {
+                    "text": "Compare Mac",
+                    "link": "#"
+                },
+                {
+                    "text": "Mac Does That",
+                    "link": "#"
+                }
+            ]
+        },
+        "quick_links": {
+            "title": "Shop Mac",
+            "items": [
+                {
+                    "text": "Apple Store Shopping event",
+                    "link": "#"
+                },
+                {
+                    "text": "Shop Mac",
+                    "link": "#"
+                },
+                {
+                    "text": "Mac Accessories",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple Trade in",
+                    "link": "#"
+                },
+                {
+                    "text": "Financing",
+                    "link": "#"
+                }
+            ]
+        },
+        "shop_special_stores": {
+            "title": "More from Mac",
+            "items": [
+                {
+                    "text": "Mac Support",
+                    "link": "#"
+                },
+                {
+                    "text": "AppleCare+ for Mac",
+                    "link": "#"
+                },
+                {
+                    "text": "MacOS Sonoma",
+                    "link": "#"
+                },
+                {
+                    "text": "Apps by Apple",
+                    "link": "#"
+                },
+                {
+                    "text": "Continuity",
+                    "link": "#"
+                },
+                {
+                    "text": "iCloud+",
+                    "link": "#"
+                },
+                {
+                    "text": "Mac For Business",
+                    "link": "#"
+                },
+                {
+                    "text": "Education",
+                    "link": "#"
+                }
+            ]
+        }
+    },
+    {
+        "store": {
+            "title": "Explore iPad",
+            "items": [
+                {
+                    "text": "Explore All iPad",
+                    "link": "#"
+                },
+                {
+                    "text": "iPad Pro",
+                    "link": "#"
+                },
+                {
+                    "text": "iPad Air",
+                    "link": "#"
+                },
+                {
+                    "text": "iPad",
+                    "link": "#"
+                },
+                {
+                    "text": "iPad mini",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple Pencil",
+                    "link": "#"
+                },
+                {
+                    "text": "Keyboards",
+                    "link": "#"
+                },
+                {
+                    "text": "Compare iPad",
+                    "link": "#"
+                },
+                {
+                    "text": "Why iPad",
+                    "link": "#"
+                }
+            ]
+        },
+        "quick_links": {
+            "title": "Shop iPad",
+            "items": [
+                {
+                    "text": "Apple Store Shopping Event",
+                    "link": "#"
+                },
+                {
+                    "text": "Shop iPad",
+                    "link": "#"
+                },
+                {
+                    "text": "iPad Accessories",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple Trade In",
+                    "link": "#"
+                },
+                {
+                    "text": "Financing",
+                    "link": "#"
+                }
+            ]
+        },
+        "shop_special_stores": {
+            "title": "More from iPad",
+            "items": [
+                {
+                    "text": "iPad Support",
+                    "link": "#"
+                },
+                {
+                    "text": "AppleCare+ for iPad",
+                    "link": "#"
+                },
+                {
+                    "text": "iPadOS 17",
+                    "link": "#"
+                },
+                {
+                    "text": "Apps by Apple",
+                    "link": "#"
+                },
+                {
+                    "text": "iCloud+",
+                    "link": "#"
+                },
+                {
+                    "text": "Education",
+                    "link": "#"
+                }
+            ]
+        }
+    },
+    {
+        "store": {
+            "title": "Explore iPhone",
+            "items": [
+                {
+                    "text": "Explore All iPhone",
+                    "link": "#"
+                },
+                {
+                    "text": "iPhone 15 Pro",
+                    "link": "#"
+                },
+                {
+                    "text": "iPhone 15",
+                    "link": "#"
+                },
+                {
+                    "text": "iPhone 14",
+                    "link": "#"
+                },
+                {
+                    "text": "iPhone 13",
+                    "link": "#"
+                },
+                {
+                    "text": "iPhone SE",
+                    "link": "#"
+                },
+                {
+                    "text": "Compare iPhone",
+                    "link": "#"
+                },
+                {
+                    "text": "Switch from Android",
+                    "link": "#"
+                }
+            ]
+        },
+        "quick_links": {
+            "title": "Shop iPhone",
+            "items": [
+                {
+                    "text": "Apple Store Shopping Event",
+                    "link": "#"
+                },
+                {
+                    "text": "Shop iPhone",
+                    "link": "#"
+                },
+                {
+                    "text": "iPhone Accessories",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple Trade In",
+                    "link": "#"
+                },
+                {
+                    "text": "Carrier Deals at Apple",
+                    "link": "#"
+                },
+                {
+                    "text": "Financing",
+                    "link": "#"
+                }
+            ]
+        },
+        "shop_special_stores": {
+            "title": "More from iPhone",
+            "items": [
+                {
+                    "text": "iPhone Support",
+                    "link": "#"
+                },
+                {
+                    "text": "AppleCare+ for iPhone",
+                    "link": "#"
+                },
+                {
+                    "text": "iOS 17",
+                    "link": "#"
+                },
+                {
+                    "text": "Apps by Apple",
+                    "link": "#"
+                },
+                {
+                    "text": "iPhone Privacy",
+                    "link": "#"
+                },
+                {
+                    "text": "iCloud+",
+                    "link": "#"
+                },
+                {
+                    "text": "Wallet, Pay, Card",
+                    "link": "#"
+                },
+                {
+                    "text": "Siri",
+                    "link": "#"
+                }
+            ]
+        }
+    },
+    {
+        "store": {
+            "title": "Explore Watch",
+            "items": [
+                {
+                    "text": "Explore All Apple Watch",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple Watch Series 9",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple Watch Ultra 2",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple Watch SE",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple Watch Nike",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple Watch Hermès",
+                    "link": "#"
+                },
+                {
+                    "text": "Compare Watch",
+                    "link": "#"
+                },
+                {
+                    "text": "Why Apple Watch",
+                    "link": "#"
+                }
+            ]
+        },
+        "quick_links": {
+            "title": "Shop Watch",
+            "items": [
+                {
+                    "text": "Apple Store Shopping Event",
+                    "link": "#"
+                },
+                {
+                    "text": "Shop Apple Watch",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple Watch Studio",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple Watch Bands",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple Watch Accessories",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple Trade In",
+                    "link": "#"
+                },
+                {
+                    "text": "Financing",
+                    "link": "#"
+                }
+            ]
+        },
+        "shop_special_stores": {
+            "title": "More from Watch",
+            "items": [
+                {
+                    "text": "Apple Watch Support",
+                    "link": "#"
+                },
+                {
+                    "text": "AppleCare+",
+                    "link": "#"
+                },
+                {
+                    "text": "watchOS 10",
+                    "link": "#"
+                },
+                {
+                    "text": "Apps by Apple",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple Fitness+",
+                    "link": "#"
+                }
+            ]
+        }
+    },
+    {
+        "store": {
+            
+        },
+        "quick_links": {
+          
+        },
+        "shop_special_stores": {
+            
+        } 
+    },
+    {
+        "store": {
+            "title": "Explore AirPods",
+            "items": [
+                {
+                    "text": "Explore All AirPods",
+                    "link": "#"
+                },
+                {
+                    "text": "AirPods Pro 2nd generation",
+                    "link": "#"
+                },
+                {
+                    "text": "AirPods 2nd generation",
+                    "link": "#"
+                },
+                {
+                    "text": "AirPods 3rd generation",
+                    "link": "#"
+                },
+                {
+                    "text": "AirPods Max",
+                    "link": "#"
+                },
+                {
+                    "text": "Compare AirPods",
+                    "link": "#"
+                }
+            ]
+        },
+        "quick_links": {
+            "title": "Shop AirPods",
+            "items": [
+                {
+                    "text": "Apple Store Shopping event",
+                    "link": "#"
+                },
+                {
+                    "text": "Shop AirPods",
+                    "link": "#"
+                },
+                {
+                    "text": "AirPods Accessories",
+                    "link": "#"
+                }
+            ]
+        },
+        "shop_special_stores": {
+            "title": "More from AirPods",
+            "items": [
+                {
+                    "text": "AirPods Support",
+                    "link": "#"
+                },
+                {
+                    "text": "AppleCare+ for Headphones",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple Music",
+                    "link": "#"
+                }
+            ]
+        }
+    },
+    {
+        "store": {
+            "title": "Explore TV & Home",
+            "items": [
+                {
+                    "text": "Explore TV & Home",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple TV 4K",
+                    "link": "#"
+                },
+                {
+                    "text": "HomePod",
+                    "link": "#"
+                },
+                {
+                    "text": "HomePod mini",
+                    "link": "#"
+                }
+            ]
+        },
+        "quick_links": {
+            "title": "Shop TV & Home",
+            "items": [
+                {
+                    "text": "Apple Store Shopping event",
+                    "link": "#"
+                },
+                {
+                    "text": "Shop Apple TV 4K",
+                    "link": "#"
+                },
+                {
+                    "text": "Shop HomePod",
+                    "link": "#"
+                },
+                {
+                    "text": "Shop HomePod mini",
+                    "link": "#"
+                },
+                {
+                    "text": "Shop Siri Remote",
+                    "link": "#"
+                },
+                {
+                    "text": "TV & Home Accessories",
+                    "link": "#"
+                }
+            ]
+        },
+        "shop_special_stores": {
+            "title": "More from TV & Home",
+            "items": [
+                {
+                    "text": "Apple TV Support",
+                    "link": "#"
+                },
+                {
+                    "text": "HomePod Support",
+                    "link": "#"
+                },
+                {
+                    "text": "AppleCare+",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple TV app",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple TV+",
+                    "link": "#"
+                },
+                {
+                    "text": "Home app",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple Music",
+                    "link": "#"
+                },
+                {
+                    "text": "Siri",
+                    "link": "#"
+                },
+                {
+                    "text": "AirPlay",
+                    "link": "#"
+                }
+            ]
+        }
+    },
+    {
+        "store": {
+            "title": "Explore Entertainment",
+            "items": [
+                {
+                    "text": "Explore Entertainment",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple One",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple TV+",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple Music",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple Arcade",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple Fitness+",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple News+",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple Podcasts",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple Books",
+                    "link": "#"
+                },
+                {
+                    "text": "App Store",
+                    "link": "#"
+                }
+            ]
+        },
+        "quick_links": {
+            "title": "Support",
+            "items": [
+                {
+                    "text": "Apple TV+ Support",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple Music Support",
+                    "link": "#"
+                }
+            ]
+        }
+    },
+    {
+        "store": {
+            "title": "Shop Accessories",
+            "items": [
+                {
+                    "text": "Shop All Accessories",
+                    "link": "#"
+                },
+                {
+                    "text": "Mac",
+                    "link": "#"
+                },
+                {
+                    "text": "iPad",
+                    "link": "#"
+                },
+                {
+                    "text": "iPhone",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple Watch",
+                    "link": "#"
+                },
+                {
+                    "text": "AirPods",
+                    "link": "#"
+                },
+                {
+                    "text": "TV & Home",
+                    "link": "#"
+                }
+            ]
+        },
+        "quick_links": {
+            "title": "Explore Accessories",
+            "items": [
+                {
+                    "text": "Shop Holiday Gifts",
+                    "link": "#"
+                },
+                {
+                    "text": "Made by Apple",
+                    "link": "#"
+                },
+                {
+                    "text": "Beats by Dr. Dre",
+                    "link": "#"
+                },
+                {
+                    "text": "AirTag",
+                    "link": "#"
+                }
+            ]
+        }
+    },
+    {
+        "store": {
+            "title": "Explore Support",
+            "items": [
+                {
+                    "text": "iPhone",
+                    "link": "#"
+                },
+                {
+                    "text": "Mac",
+                    "link": "#"
+                },
+                {
+                    "text": "iPad",
+                    "link": "#"
+                },
+                {
+                    "text": "Watch",
+                    "link": "#"
+                },
+                {
+                    "text": "AirPods",
+                    "link": "#"
+                },
+                {
+                    "text": "Music",
+                    "link": "#"
+                },
+                {
+                    "text": "TV",
+                    "link": "#"
+                }
+            ]
+        },
+        "quick_links": {
+            "title": "Get Help",
+            "items": [
+                {
+                    "text": "Community",
+                    "link": "#"
+                },
+                {
+                    "text": "Check Coverage",
+                    "link": "#"
+                },
+                {
+                    "text": "Repair",
+                    "link": "#"
+                },
+                {
+                    "text": "Contact Us",
+                    "link": "#"
+                }
+            ]
+        },
+        "shop_special_stores": {
+            "title": "Helpful Topics",
+            "items": [
+                {
+                    "text": "Get AppleCare+",
+                    "link": "#"
+                },
+                {
+                    "text": "Apple ID & Password",
+                    "link": "#"
+                },
+                {
+                    "text": "Billing & Subscriptions",
+                    "link": "#"
+                },
+                {
+                    "text": "Find My",
+                    "link": "#"
+                },
+                {
+                    "text": "Accessibility",
+                    "link": "#"
+                }
+            ]
+        }
+    }
+]
